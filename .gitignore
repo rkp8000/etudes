@@ -1,0 +1,10 @@
+*
+
+!*.md
+!*.ipynb
+!*.py
+!replay
+!*.gitignore
+
+sandbox.ipynb
+
